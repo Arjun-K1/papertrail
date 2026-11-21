@@ -1,0 +1,11 @@
+# PaperTrail on Render, free tier. No card needed for the free plan.
+# Render runs the same one-command server, on $PORT, bound to 0.0.0.0.
+services:
+  - type: web
+    name: papertrail
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 src/papertrail.py serve --port $PORT --host 0.0.0.0
+    envVars:
+      - key: PAPER_GEMMA_MODEL
+        value: ""

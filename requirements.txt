@@ -1,0 +1,4 @@
+# PaperTrail has no required dependencies. Stdlib only.
+# llama-cpp is optional, only for local Gemma summaries.
+# Uncomment the line below if you want Gemma on the server.
+# llama-cpp-python==0.3.36

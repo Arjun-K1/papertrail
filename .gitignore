@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.gguf
+*.bin
+data/cache.json
+output/
+.venv/
+data/stats.json
+data/settings.json

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Sample Tech</title><link>https://example.org/tech</link>
+<description>Sample technology feed for PaperTrail demos, offline.</description>
+<item><title>Open-weight models keep getting smaller and faster</title>
+<link>https://example.org/tech/small-models</link>
+<pubDate>Sat, 22 Nov 2026 05:00:00 GMT</pubDate>
+<description>New open-weight models with around a billion parameters can now run on an ordinary laptop. Researchers say the smaller models are good enough for summarising, sorting, and answering questions without sending data to a server.</description></item>
+<item><title>RSS feeds are still alive, quietly</title>
+<link>https://example.org/tech/rss-alive</link>
+<pubDate>Fri, 21 Nov 2026 09:00:00 GMT</pubDate>
+<description>RSS never really died. Thousands of newspapers, blogs, and government sites still publish feeds, and readers that use them need no account, no tracking, and no feed algorithm.</description></item>
+</channel></rss>

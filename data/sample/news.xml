@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Sample News</title><link>https://example.org/news</link>
+<description>Sample news feed for PaperTrail demos, offline.</description>
+<item><title>City library extends evening hours for exam season</title>
+<link>https://example.org/news/library-hours</link>
+<pubDate>Sat, 22 Nov 2026 06:00:00 GMT</pubDate>
+<description>The city library will stay open until 10 pm on weekdays through December. Study rooms can be booked at the front desk, and the reading hall will open an hour earlier on weekends.</description></item>
+<item><title>Monsoon repair work closes two roads near the station</title>
+<link>https://example.org/news/road-repair</link>
+<pubDate>Fri, 21 Nov 2026 18:30:00 GMT</pubDate>
+<description>Repair work on two roads near the railway station starts on Monday and is expected to take a week. Buses will use the ring road, and signs will direct drivers around the closed stretches.</description></item>
+<item><title>Local college team wins national coding contest</title>
+<link>https://example.org/news/coding-contest</link>
+<pubDate>Thu, 20 Nov 2026 12:00:00 GMT</pubDate>
+<description>A three-student team from the local college won the national coding contest with a tool that checks water quality from phone photos. The team will present the project at the state science fair next month.</description></item>
+</channel></rss>
